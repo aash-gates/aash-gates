@@ -12,8 +12,8 @@
 
 Geek since Windows Vista era, Tech Guru, Windows Insider, Microsoft Guy, Privacy Advocate, IBM Love and 
 Diploma in Computer science and engineering Holder and Content Creator at Victory Visuals
-
-
+<!-- its about me
+-->
 
 ## Things I am passionate about
 
@@ -40,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
