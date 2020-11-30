@@ -4,31 +4,30 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/aash-gates/count.svg" />
 </p>
 
 ## About me
 
-I'm Sagar Viradiya. An Android Engineer at [BookMyShow](https://in.bookmyshow.com) and also Co-organizer of [GDG MAD](https://gdgmad.com/) (Mumbai). Community is :heart:. Code blooded animal, 1xEngineer :stuck_out_tongue: and :coffee: lover. 
+Geek since Windows Vista era, Tech Guru, Windows Insider, Microsoft Guy, Privacy Advocate, IBM Love and 
+Diploma in Computer science and engineering Holder and Content Creator at Victory Visuals
 
-I ocassionally blog and tweet about android. Also open sourced few android related stuff.  
 
 
 ## Things I am passionate about
 
-- Android :robot:
-- Open source :octocat:
+- Photography :camera:
+- Tech :octocat:
 
 ## Get in touch :coffee:
 
-- Your future buddy to discuss Android related things and tech in general on [Twitter](https://twitter.com/viradiya_sagar).
-- Your future life savior :stuck_out_tongue: on [Medium](https://medium.com/@sagarviradiya).
-- Your future employee on [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
-- And of course GitHub you're already on (Recursion).
-
+- Connect With me on Linkedin : https://www.linkedin.com/in/aashgates
+- Follow me on twitter :https://www.twitter.com/aash_gates
+- follow my photography page on instagram :https://www.instagram.com/aash_gates
+- Subscribe to my YouTube Channel :https://www.youtube.com/channel/UC4dVYV7fo428u3KjhfJM6vg
 
 <!--
-**sagar-viradiya/sagar-viradiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**aash-gates/aash-gates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
