@@ -19,7 +19,7 @@ Diploma in Computer science and engineering Holder and Content Creator at Victor
 - Photography :camera:
 - Tech :octocat:
 
-## Get in touch :coffee:
+## Get in touch :open_hands:
 
 - Connect With me on Linkedin : https://www.linkedin.com/in/aashgates
 - Follow me on twitter :https://www.twitter.com/aash_gates
