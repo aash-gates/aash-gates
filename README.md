@@ -1,5 +1,5 @@
 # Hey there :wave:
-
+<p align="center"> 
 <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Hello world">
 
 <p align="center"> 
