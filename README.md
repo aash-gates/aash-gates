@@ -21,7 +21,6 @@ Diploma in Computer science and engineering Holder and Content Creator at Victor
 - Photography :camera:
 - Tech :octocat:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aash-gates&label=Profile%20views&color=0e75b6&style=flat" alt="aash-gates" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aash-gates" alt="aash-gates" /></a> </p>
 
