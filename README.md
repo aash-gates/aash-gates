@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aashik J Krishnan</h1>
 <h3 align="center">The Guy Socially Known as Aash Gates</h3>
 <p align="center"> 
-<img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="A Gem of a Day.">
 <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Hello world">
 
 <p align="center"> 
