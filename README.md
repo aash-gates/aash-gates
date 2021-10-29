@@ -41,6 +41,15 @@ Diploma in Computer science and engineering Holder and Content Creator at Victor
 
 <p align="center"> <a href="https://twitter.com/aash_gates" target="blank"><img src="https://img.shields.io/twitter/follow/aash_gates?logo=twitter&style=for-the-badge" alt="aash_gates" /></a> </p>
 
+<!-- START NEW SECTION -->
+<p align="center">
+ <h2 align="center">Contribution Graph</h2>
+<p>
+<img alt="Md. Shakil Hossain's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aash-gates&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+</p>
+
+</body>
+</html>
 
 <!--
 **aash-gates/aash-gates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
