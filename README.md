@@ -32,7 +32,7 @@ Diploma in Computer science and engineering Holder and Content Creator at Victor
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&locale=en" alt="aash-gates" /></p>
 
-<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aash-gates&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0F8819&sideNums=04FF00)](https://git.io/streak-stats)&" alt="aash-gates" /></p>
+<p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aash-gates&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0F8819&sideNums=04FF00)&" alt="aash-gates" /></p>
 <br>
 
 
