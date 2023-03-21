@@ -34,7 +34,10 @@ Diploma in Computer science and engineering Holder and Content Creator at Victor
 
 
 </br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aash-gates" alt="aash-gates" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aash-gates" alt="aash-gates" /></a>
+</p>
+
+[![Aash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aash-gates)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> <a href="https://twitter.com/aash_gates" target="blank"><img src="https://img.shields.io/twitter/follow/aash_gates?logo=twitter&style=for-the-badge" alt="aash_gates" /></a> </p>
 
