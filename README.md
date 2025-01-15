@@ -5,7 +5,6 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="Futuristic Day">
   <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Hello World Animation">
 </p>
 
@@ -39,7 +38,7 @@ A futuristic solution for modern-day challenges.
 
 ## 🛠️ Tools & Technologies
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode" alt="Skills">
+  <img src="https://skillicons.dev/icons?i=azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode,android" alt="Skills">
 </p>
 
 ---
