@@ -2,7 +2,7 @@
 <h3 align="center">The Guy Socially Known as Aash Gates</h3>
 
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="A Gem of a Day 5:59">
+  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="A Gem of a Day">
   <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Hello world">
 </p>
 
@@ -41,7 +41,6 @@
 <p>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-  <a href="https://backbonejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40" /></a>
   <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" /></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
@@ -66,7 +65,7 @@
 ## 🎨 My GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aash-gates&theme=soft-green&hide_border=true" alt="GitHub Streak Stats" />
+  <img align="center" src="https://streak-stats.demolab.com/?user=aash-gates&theme=soft-green&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 [![Aash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aash-gates)](https://github.com/anuraghazra/github-readme-stats)
