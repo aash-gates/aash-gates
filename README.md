@@ -57,7 +57,7 @@
 
 ## 📊 GitHub Metrics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aash-gates&theme=radical&hide_border=true" alt="Streak Stats">
+  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=radical&hide_border=true" alt="GitHub Streak Stats">
 </p>
 
 <p align="center">
