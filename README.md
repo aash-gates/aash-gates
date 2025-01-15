@@ -66,7 +66,7 @@
 ## 🎨 My GitHub Stats
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=aash-gates&theme=soft-green&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=0F8819&sideNums=04FF00" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aash-gates&theme=soft-green&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 [![Aash's GitHub stats](https://github-readme-stats.vercel.app/api?username=aash-gates)](https://github.com/anuraghazra/github-readme-stats)
