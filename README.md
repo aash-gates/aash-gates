@@ -1,6 +1,7 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3500&color=0FFFE3&center=true&vCenter=true&width=900&height=80&lines=Welcome+to+My+Futuristic+Space+%F0%9F%8C%8C;Hi+%F0%9F%91%8B%2C+I'm+Aashik+J+Krishnan;Also+Known+as+Aash+Gates;Tech+Visionary+%7C+Innovator+%7C+Content+Creator" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3500&color=0FFFE3&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashik+J+Krishnan;Also+Known+as+Aash+Gates;Tech+Visionary+%7C+Innovator+%7C+Content+Creator" alt="Typing Animation">
 </h1>
+
 
 ---
 
