@@ -128,7 +128,7 @@
 ---
 
 ## 🪶 Certifications
-🎖️ Verified on [**Credly**](https://www.credly.com/users/aashgates.official)
+🎖️ Verified on <a href="https://www.credly.com/users/aashgates.official" target="_blank">Credly</a>
 
 ---
 
