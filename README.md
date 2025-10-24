@@ -1,97 +1,109 @@
-# Aashik J Krishnan (Aash Gates)
-
-Tech Visionary | Founder | Innovator
-
----
-
-## Portfolio & Connections
-
-- **[Portfolio Website](https://aashgates.com/)**  
-- **[Linktree](https://linktr.ee/aashgates)** – Comprehensive overview of my projects and activities  
-- **[Credly Profile](https://www.credly.com/users/aashgates.official)** – Verified certifications  
-
-- **[X (Twitter)](https://x.com/aash_gates)**  
-- **[LinkedIn](https://www.linkedin.com/in/aashgates/)**  
-- **[Email](mailto:aashgates@outlook.com)**  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=4000&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=Hi+👋,+I'm+Aashik+J+Krishnan;Also+Known+as+Aash+Gates;Tech+Visionary+⚡+Founder+🚀+Innovator" alt="Typing Animation">
+</h1>
 
 ---
 
-## Current Projects
-
-- **EZ Token System** – Intelligent hospital queue management and display automation for streamlined patient flow.  
-- **EZ Signage CRM** – SaaS platform for digital signage and customer relationship management.  
-- **Victory Organisation** – Independent network fostering innovation at the intersection of technology, design, and social impact.  
-
----
-
-![Hello World](https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png)
-![Aash Gates Animation](https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif)
-
----
-
-## About Me
-
-Turning futuristic ideas into practical realities.
-
-- Tech visionary specializing in **AI, Cloud, and Automation**.  
-- Advocate for **privacy, digital sustainability, and open innovation**.  
-- Diploma in Computer Science & Engineering.  
-- Founder of **Victory Visuals**.  
-- Exploring the convergence of **technology, design, and purpose**.  
+## 🌐 Portfolio & Connections
+<p align="center">
+  <a href="https://aashgates.com/" target="_blank"><img src="https://img.shields.io/badge/🌍%20Portfolio-aashgates.com-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linktr.ee/aashgates" target="_blank"><img src="https://img.shields.io/badge/🔗%20Linktree-Projects%20%26%20Socials-43E660?style=for-the-badge&logo=linktree&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/aashgates.official" target="_blank"><img src="https://img.shields.io/badge/🏅%20Credly-Verified%20Certs-F38F2C?style=for-the-badge&logo=credly&logoColor=white" /></a><br>
+  <a href="https://x.com/aash_gates" target="_blank"><img src="https://img.shields.io/badge/🐦%20Twitter-@aash__gates-1DA1F2?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aashgates/" target="_blank"><img src="https://img.shields.io/badge/💼%20LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aashgates@outlook.com" target="_blank"><img src="https://img.shields.io/badge/📧%20Email-aashgates%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+</p>
 
 ---
 
-## Core Focus Areas
+## 🏗️ Current Projects
 
-| Category          | Focus Areas                          |
-|-------------------|--------------------------------------|
-| Emerging Tech    | AI • Cloud • Quantum • IoT          |
-| Engineering      | DevOps • Automation • Scalable Systems |
-| Creativity       | UI/UX • Visual Design • Brand Identity |
-| Mission          | Building technology that empowers human progress |
+🚦 **EZ Token System** – Intelligent hospital queue management & real-time display automation.  
+🖥️ **EZ Signage CRM** – SaaS platform for smart signage + customer relationship management.  
+🎯 **Victory Organisation** – Indie tech collective uniting innovation, design, and purpose.
 
 ---
 
-## Tech Stack
-
-![Tech Stack](https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode)
-
----
-
-## Achievements
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" width="48%" alt="Hello World">
+  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" width="48%" alt="Aash Gates Animation">
+</p>
 
 ---
 
-## GitHub Metrics
+## 🧭 About Me
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aash-gates&theme=tokyonight)  
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aash-gates&theme=tokyonight&utcOffset=5.5)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true)  
+> “Turning futuristic ideas into practical realities.”
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=aash-gates&theme=tokyonight&hide_border=true)  
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight)
-
----
-
-## Featured Projects
-
-| Project                  | Description                                                                 | Tech Stack                  |
-|--------------------------|-----------------------------------------------------------------------------|-----------------------------|
-| [EZ Token System](https://tkncon.aashgates.com) | Revolutionizing hospital workflows with automated patient flow management.  | PHP • MySQL • Bootstrap • PWA |
-| [EZ Signage CRM](https://crm.aashgates.com)    | Unified platform for smart signage, content, and customer management.       | PHP • MySQL • AJAX • Glassmorphism UI |
-| [Victory Organisation](https://aashgates.com/victory) | Ecosystem bridging technology, education, and impact-driven initiatives.    | Full-Stack • Design Systems • AI |
+- 💡 Tech visionary in **AI, Cloud, and Automation**  
+- 🔒 Advocate for **privacy**, **digital sustainability**, and **open innovation**  
+- 🎓 Diploma holder in **Computer Science & Engineering**  
+- 🎥 Founder of **Victory Visuals**  
+- 🪄 Exploring the fusion of **technology, design, and purpose**
 
 ---
 
-## Certifications
+## 🧩 Core Focus Areas
 
-Verified on [Credly](https://www.credly.com/users/aashgates.official).
+| Category | Focus Areas |
+|-----------|--------------|
+| 🧠 Emerging Tech | AI • Cloud • Quantum • IoT |
+| ⚙️ Engineering | DevOps • Automation • Scalable Systems |
+| 🎨 Creativity | UI/UX • Visual Design • Brand Identity |
+| 🌱 Mission | Building tech that empowers human progress |
 
 ---
 
-## Closing Note
+## 🧰 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode" alt="Tech Stack Icons" />
+</p>
 
-The future belongs to those who innovate with purpose. Stay futuristic, think innovative, and build with impact.
+---
+
+## 🏆 Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Metrics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aash-gates&theme=tokyonight" height="170px" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aash-gates&theme=tokyonight&utcOffset=5.5" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
+  <br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight" width="95%" alt="Profile Details"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+| 🌟 Project | Description | Tech Stack |
+|------------|--------------|------------|
+| [EZ Token System](https://tkncon.aashgates.com){:target="_blank"} | Revolutionizing hospital workflows with real-time token & queue management. | PHP • MySQL • Bootstrap • PWA |
+| [EZ Signage CRM](https://crm.aashgates.com){:target="_blank"} | Unified platform for digital signage & content management. | PHP • MySQL • AJAX • Glassmorphism UI |
+| [Victory Organisation](https://aashgates.com/victory){:target="_blank"} | Ecosystem bridging tech, education & innovation for global impact. | Full-Stack • Design Systems • AI |
+
+---
+
+## 🪶 Certifications
+🎖️ Verified on <a href="https://www.credly.com/users/aashgates.official" target="_blank"><b>Credly</b></a>
+
+---
+
+## ✨ Final Note
+> “The future belongs to those who innovate with purpose.”
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFFF&center=true&vCenter=true&width=800&lines=Stay+Futuristic+⚡;Think+Innovative+🧠;Build+with+Purpose+🌍" alt="Typing Footer Animation">
+</p>
