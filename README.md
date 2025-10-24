@@ -90,9 +90,9 @@
 
 | 🌟 Project | Description | Tech Stack |
 |------------|--------------|------------|
-| [EZ Token System](https://tkncon.aashgates.com){:target="_blank"} | Revolutionizing hospital workflows with real-time token & queue management. | PHP • MySQL • Bootstrap • PWA |
-| [EZ Signage CRM](https://crm.aashgates.com){:target="_blank"} | Unified platform for digital signage & content management. | PHP • MySQL • AJAX • Glassmorphism UI |
-| [Victory Organisation](https://aashgates.com/victory){:target="_blank"} | Ecosystem bridging tech, education & innovation for global impact. | Full-Stack • Design Systems • AI |
+| [EZ Token System](https://tkncon.aashgates.com)| Revolutionizing hospital workflows with real-time token & queue management. | PHP • MySQL • Bootstrap • PWA |
+| [EZ Signage CRM](https://crm.aashgates.com) | Unified platform for digital signage & content management. | PHP • MySQL • AJAX • Glassmorphism UI |
+| [Victory Organisation](https://aashgates.com)| Ecosystem bridging tech, education & innovation for global impact. | Full-Stack • Design Systems • AI |
 
 ---
 
