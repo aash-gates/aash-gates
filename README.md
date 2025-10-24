@@ -1,94 +1,99 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3500&color=0FFFE3&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashik+J+Krishnan;Also+Known+as+Aash+Gates;Tech+Visionary+%7C+Innovator+%7C+Content+Creator" alt="Typing Animation">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashik+J+Krishnan;aka+Aash+Gates;Tech+Visionary+%7C+Innovator+%7C+Creator" alt="Typing Animation">
 </h1>
 
-
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="Future Ready">
-  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Tech Gateway Animation">
+  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/HelloWorld.png" alt="Hello World" width="49%">
+  <img src="https://raw.githubusercontent.com/aash-gates/aash-gates/main/Image/gates.gif" alt="Aash Gates Animation" width="49%">
 </p>
 
 ---
 
-## 🌌 Who Am I?
+## 🌌 About Me
 
-- 🧑‍💻 **Tech Visionary** exploring the frontiers of **AI**, **Cloud**, and **Quantum Computing**.
-- 🚀 Passionate about **Privacy Advocacy**, **Digital Transformation**, and **Tech Accessibility**.
-- 🎓 **Diploma Holder in Computer Science & Engineering**.
-- 🎥 Content Creator and Founder of **Victory Visuals**.
-- 🌐 Advocate for a **sustainable and connected future** in tech.
+> 🚀 *“Turning futuristic ideas into practical realities.”*
 
----
-
-## ⚡ Vision & Interests
-- **Revolutionizing Tech** through **automation, AI**, and **next-gen platforms**.
-- **Photography Enthusiast** 📸 capturing life's futuristic hues.
-- Always exploring **cutting-edge innovations** to create **scalable solutions**.
+- 💡 **Tech Visionary** in **AI**, **Cloud**, and **Quantum Computing**  
+- 🌐 Advocate of **Digital Sustainability**, **Privacy**, and **Open Innovation**  
+- 🎓 **Diploma in Computer Science & Engineering**  
+- 🎥 Founder of **Victory Visuals** and content creator passionate about **tech storytelling**  
+- 🧭 Always chasing the edge of innovation and meaningful design  
 
 ---
 
-## 🛠️ Tech Arsenal
+## ⚡ Core Focus
+
+| Category | Focus |
+|-----------|--------|
+| 🧠 Emerging Tech | AI • Cloud • Quantum • IoT |
+| ⚙️ Engineering | DevOps • Automation • Scalable Systems |
+| 🪄 Creativity | UI/UX • Visual Design • Branding |
+| 🌱 Mission | Build technology that empowers humanity |
+
+---
+
+## 🧰 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode" alt="Tech Icons">
+  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode" />
 </p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="Trophies">
+</p>
+
+---
+
+## 📊 Metrics & Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=aash-gates&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width="48%" alt="Streak Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Languages">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight" width="48%" alt="Profile Details">
+</p>
+
+---
+
+## 🚀 Highlighted Projects
+
+| 🌟 Project | Description | Stack |
+|-------------|--------------|-------|
+| [**Next-Gen Platform**](#) | Revolutionizing automation and accessibility through AI. | Python • Azure • Docker |
+| [**Smart Tech Hub**](#) | Unifying IoT devices under one intelligent network. | JS • MongoDB • Kubernetes |
+
+---
+
+## 🪶 Certifications
+🎖️ Verified on [**Credly**](https://www.credly.com/users/aashgates.official)
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://x.com/aash_gates"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"></a>
-  <a href="mailto:aashgates@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email"></a>
-  <a href="https://www.linkedin.com/in/aashgates/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://aashgates.com/"><img src="https://img.shields.io/badge/Website-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"></a>
-  <a href="https://www.credly.com/users/aashgates.official"><img src="https://img.shields.io/badge/Credly-F38F2C?style=for-the-badge&logo=credly&logoColor=white" alt="Credly"></a>
+  <a href="https://x.com/aash_gates"><img src="https://img.shields.io/badge/X_(Twitter)-14171A?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="mailto:aashgates@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aashgates/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://aashgates.com/"><img src="https://img.shields.io/badge/Website-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.credly.com/users/aashgates.official"><img src="https://img.shields.io/badge/Credly-F38F2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
 </p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=radical&no-frame=true&column=6&margin-w=15&margin-h=15" alt="Achievements">
-</p>
-
----
-
-## 📊 GitHub Metrics
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=radical&hide_border=true" alt="GitHub Streak Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats">
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🌟 [Next-Gen Platform](#)
-- **Vision**: Revolutionizing accessibility and automation through AI.
-- **Stack**: Python, Azure, and Docker.
-
-### 🌌 [Smart Tech Hub](#)
-- **Vision**: A hub for connecting IoT devices seamlessly.
-- **Stack**: JavaScript, MongoDB, and Kubernetes.
-
----
-
-## 🌟 Certifications
-
-- 🏅 Verified Certifications on [**Credly**](https://www.credly.com/users/aashgates.official)
 
 ---
 
 ## ✨ Final Note
 
-> "The future belongs to those who innovate and embrace change. Let’s shape it together!"
+> *“The future belongs to those who innovate with purpose.”*
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&color=FF00D9&center=true&vCenter=true&width=900&lines=Stay+Futuristic;Think+Innovative;Let’s+Connect+and+Collaborate!" alt="Futuristic Final Note">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&color=00FFFF&center=true&vCenter=true&width=800&lines=Stay+Futuristic+⚡;Think+Innovative+🧠;Build+with+Purpose+🌍" alt="Typing Footer Animation">
 </p>
