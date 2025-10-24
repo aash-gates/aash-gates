@@ -4,6 +4,38 @@
 
 ---
 
+## 🌍 Connect · Portfolio · Proof
+
+<p align="center">
+  <a href="https://aashgates.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-aashgates.com-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+
+  <a href="https://linktr.ee/aashgates" target="_blank">
+    <img src="https://img.shields.io/badge/🔗%20Linktree-Everything%20I%20do-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
+  </a>
+
+  <a href="https://www.credly.com/users/aashgates.official" target="_blank">
+    <img src="https://img.shields.io/badge/🏅%20Credly-Verified%20Certs-F38F2C?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://x.com/aash_gates" target="_blank">
+    <img src="https://img.shields.io/badge/X-@aash__gates-14171A?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/aashgates/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-aashgates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:aashgates@outlook.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-aashgates%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Now Building
 
 <p align="center">
@@ -88,38 +120,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## 🌍 Connect · Portfolio · Proof
-
-<p align="center">
-  <a href="https://aashgates.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-aashgates.com-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-
-  <a href="https://linktr.ee/aashgates" target="_blank">
-    <img src="https://img.shields.io/badge/🔗%20Linktree-Everything%20I%20do-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
-  </a>
-
-  <a href="https://www.credly.com/users/aashgates.official" target="_blank">
-    <img src="https://img.shields.io/badge/🏅%20Credly-Verified%20Certs-F38F2C?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://x.com/aash_gates" target="_blank">
-    <img src="https://img.shields.io/badge/X-@aash__gates-14171A?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/aashgates/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-aashgates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:aashgates@outlook.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-aashgates%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
-  </a>
-</p>
 
 ---
 
