@@ -7,29 +7,29 @@
 ## 🌍 Connect · Portfolio · Proof
 
 <p align="center">
-  <a href="https://aashgates.com/" target="_blank">
+  <a href="https://aashgates.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-aashgates.com-0F9D58?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 
-  <a href="https://linktr.ee/aashgates" target="_blank">
+  <a href="https://linktr.ee/aashgates" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🔗%20Linktree-Everything%20I%20do-39E09B?style=for-the-badge&logo=linktree&logoColor=white" />
   </a>
 
-  <a href="https://www.credly.com/users/aashgates.official" target="_blank">
+  <a href="https://www.credly.com/users/aashgates.official" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🏅%20Credly-Verified%20Certs-F38F2C?style=for-the-badge&logo=credly&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://x.com/aash_gates" target="_blank">
+  <a href="https://x.com/aash_gates" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/X-@aash__gates-14171A?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/aashgates/" target="_blank">
+  <a href="https://www.linkedin.com/in/aashgates/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-aashgates-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:aashgates@outlook.com" target="_blank">
+  <a href="mailto:aashgates@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-aashgates%40outlook.com-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
 </p>
@@ -91,6 +91,7 @@
 </p>
 
 ---
+
 ## 📊 Metrics & Stats
 
 <table width="100%">
@@ -114,19 +115,20 @@
   </tr>
 </table>
 
+---
 
 ## 🚀 Featured Projects
 
 | 🌟 Project | Vision | Stack |
 |-------------|---------|-------|
-| **EZ Token System** | Revolutionizing hospital workflow & patient flow automation. | PHP • MySQL • Bootstrap • PWA |
-| **EZ Signage CRM** | Unified display & content management for enterprises. | PHP • MySQL • AJAX • Glassmorphism UI |
-| **Victory Organisation** | Building a creative ecosystem around tech + education. | Full-Stack • Design Systems • AI |
+| [**EZ Token System**](https://tkncon.aashgates.com){:target="_blank"} | Revolutionizing hospital workflow & patient flow automation. | PHP • MySQL • Bootstrap • PWA |
+| [**EZ Signage CRM**](https://crm.aashgates.com){:target="_blank"} | Unified display & content management for enterprises. | PHP • MySQL • AJAX • Glassmorphism UI |
+| [**Victory Organisation**](https://aashgates.com/victory){:target="_blank"} | Building a creative ecosystem around tech + education. | Full-Stack • Design Systems • AI |
 
 ---
 
 ## 🪶 Certifications
-🎖️ Verified on [**Credly**](https://www.credly.com/users/aashgates.official)
+🎖️ Verified on [**Credly**](https://www.credly.com/users/aashgates.official){:target="_blank"}
 
 ---
 
