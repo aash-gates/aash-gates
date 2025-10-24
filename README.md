@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="1179" height="249" alt="image" src="https://github.com/user-attachments/assets/a5d60420-1791-430b-ad77-4f4f4043d841" /><h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=38&duration=3500&color=00F5FF&center=true&vCenter=true&width=900&height=80&lines=Hi+%F0%9F%91%8B%2C+I'm+Aashik+J+Krishnan;aka+Aash+Gates;Tech+Visionary+%7C+Founder+%7C+Innovator" alt="Typing Animation">
 </h1>
 
@@ -87,7 +87,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </p>
 
 ---
