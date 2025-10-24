@@ -91,37 +91,29 @@
 </p>
 
 ---
-
 ## 📊 Metrics & Stats
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-
       <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aash-gates&theme=tokyonight" alt="Core Stats" />
       </div>
-
       <div align="center">
         <img src="https://streak-stats.demolab.com?user=aash-gates&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="Current Streak" />
       </div>
-
     </td>
     <td width="50%" valign="top">
-
       <div align="center">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight" alt="Profile Details" />
       </div>
-
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
       </div>
-
     </td>
   </tr>
 </table>
 
----
 
 ## 🚀 Featured Projects
 
