@@ -106,12 +106,10 @@
     <td width="33%" valign="top" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aash-gates&theme=tokyonight" alt="Core Stats"/>
     </td>
-
     <!-- Productive Time / Activity Shape -->
     <td width="33%" valign="top" align="center">
       <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aash-gates&theme=tokyonight&utcOffset=5.5" alt="Productive Time Graph (IST)"/>
     </td>
-
     <!-- Languages -->
     <td width="33%" valign="top" align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
