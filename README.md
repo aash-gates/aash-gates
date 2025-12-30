@@ -67,27 +67,31 @@ I specialise in environments where **uptime, predictability, and graceful failur
 ## 📌 Total GitHub Contributions (Since Day 1)
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="85%" alt="Total Contributions + Streaks" />
+  <img
+    src="https://streak-stats.demolab.com?user=aash-gates&theme=tokyonight&hide_border=true"
+    width="85%"
+    alt="Total GitHub Contributions and Streaks"
+  />
 </p>
 
 ---
 
-## 📊 GitHub Metrics
+## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
+    height="180px"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aash-gates&theme=tokyonight" height="170px" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aash-gates&theme=tokyonight&utcOffset=5.5" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" height="170px" />
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight" width="95%" alt="Profile Details"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true"
+    height="160px"
+    alt="Top Languages"
+  />
 </p>
 
 ---
