@@ -59,7 +59,7 @@ I specialise in environments where **uptime, predictability, and graceful failur
 
 ## 🧰 Technology Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=android,azure,bootstrap,c,cpp,css,docker,git,html,js,linux,mongodb,mysql,php,photoshop,python,selenium,vscode&theme=dark" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -67,19 +67,13 @@ I specialise in environments where **uptime, predictability, and graceful failur
 ## 📌 GitHub Contributions (All Time)
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=aash-gates&theme=tokyonight&hide_border=true"
-    width="85%"
-    alt="GitHub Contributions + Streaks"
-  />
+  <!-- Reliable Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-contributor-stats.vercel.app/api?username=aash-gates&combine_all_yearly_contributions=true&theme=tokyonight"
-    width="85%"
-    alt="Repository Contribution Stats"
-  />
+  <!-- GitHub Trophies as a cool replacement for contributor stats -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="85%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -87,19 +81,9 @@ I specialise in environments where **uptime, predictability, and graceful failur
 ## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"
-    height="180px"
-    alt="GitHub Stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true"
-    height="160px"
-    alt="Top Languages"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
 </p>
 
 ---
