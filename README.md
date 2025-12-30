@@ -64,13 +64,21 @@ I specialise in environments where **uptime, predictability, and graceful failur
 
 ---
 
-## 📌 Total GitHub Contributions (Since Day 1)
+## 📌 GitHub Contributions (All Time)
 
 <p align="center">
   <img
     src="https://streak-stats.demolab.com?user=aash-gates&theme=tokyonight&hide_border=true"
     width="85%"
-    alt="Total GitHub Contributions and Streaks"
+    alt="GitHub Contributions + Streaks"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-contributor-stats.vercel.app/api?username=aash-gates&combine_all_yearly_contributions=true&theme=tokyonight"
+    width="85%"
+    alt="Repository Contribution Stats"
   />
 </p>
 
