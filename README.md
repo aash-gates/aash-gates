@@ -64,14 +64,15 @@ I specialise in environments where **uptime, predictability, and graceful failur
 
 ---
 
-## 🏆 GitHub Achievements
+## 📌 Total GitHub Contributions (Since Day 1)
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="85%" alt="Total Contributions + Streaks" />
 </p>
 
 ---
 
-## 📊 GitHub Contributions
+## 📊 GitHub Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" />
@@ -86,8 +87,6 @@ I specialise in environments where **uptime, predictability, and graceful failur
 <br>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="80%" alt="GitHub Streak Stats" />
-  <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aash-gates&theme=tokyonight" width="95%" alt="Profile Details"/>
 </p>
 
