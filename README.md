@@ -67,13 +67,13 @@ I specialise in environments where **uptime, predictability, and graceful failur
 ## 📌 GitHub Contributions (All Time)
 
 <p align="center">
-  <!-- Reliable Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aash-gates&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Streak Stats" />
+  <!-- Streak Stats with cache busting -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aash-gates&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" width="85%" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies as a cool replacement for contributor stats -->
-  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" width="85%" alt="GitHub Trophies" />
+  <!-- Trophies with cache busting -->
+  <img src="https://github-profile-trophy.vercel.app/?username=aash-gates&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&v=1" width="85%" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -81,9 +81,11 @@ I specialise in environments where **uptime, predictability, and graceful failur
 ## 📊 GitHub Activity Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="180px" alt="GitHub Stats" />
+  <!-- Main Stats with cache busting -->
+  <img src="https://github-readme-stats.vercel.app/api?username=aash-gates&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" height="180px" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true" height="180px" alt="Top Languages" />
+  <!-- Top Langs with cache busting -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aash-gates&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=0&v=1" height="180px" alt="Top Languages" />
 </p>
 
 ---
